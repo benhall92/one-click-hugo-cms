@@ -1,6 +1,6 @@
 ---
-title: Just testing Netlify out
-subtitle: Seems relatively quick and easy to use.
+title: ' Just testing Netlify out '
+subtitle: ' Seems relatively quick and easy to use. '
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
