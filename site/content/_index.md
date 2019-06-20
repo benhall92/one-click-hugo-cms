@@ -1,6 +1,6 @@
 ---
-title: BENRHALL.COM
-subtitle: Support sustainable farming while enjoying a cup
+title: Just testing Netlify out
+subtitle: Seems relatively quick and easy to use.
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
