@@ -1,7 +1,7 @@
 ---
-title: ' Just testing Netlify out '
-subtitle: ' Seems relatively quick and easy to use. '
-image: /img/home-jumbotron.jpg
+title: My Business Journey
+subtitle: Hopefully this can inspire and help someone
+image: /img/startup-593327_1280.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
