@@ -1,26 +1,29 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+title: Starting at the beginning
+date: 2016-02-01T15:04:10.000Z
+description: Starting my business journey - the first steps in to the unknown.
 image: /img/blog-chemex.jpg
 ---
+I am writing this 2016 blog post, now, in 2019. This post is written mostly from recall, as will most of my posts, so apologies if some of the information, dates & times are a little... hazy. 
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+## ... and here we go
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+I've never been particularly good at dates. I struggle with birthdays, milestones, anniversaries, etc. However, there are 2 dates that stay in mind.
 
-## The little secrets of Chemex brewing
+29th January, 2016 & 1st February, 2016.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+29th January, 2016, this was the last day of full-time employment with the last agency I worked at for 12 months.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+1st February, 2016 was the first day of my self-employment and the start of the most wonderful, stressful and craziest time of my life. I always knew self-employment was never going to be easy and starting a business was never going to be a walk in the park.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+In fact, the first complication happened before I even handed in my notice.
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+I had agreed to set up [Interpolate co](https://www.interpolate.co) with a friend of mine, Ben C. He was a good friend and still _**is**_ a good friend of mine. He taught me everything I know when it comes to frontend development. He had a good business head, he was likeable and ambitious. We were a good fit to start a digital agency, something we had spoke about for the few years we had known each other. We had both worked at Digital Agencies, big and small and knew that starting our own agency was what we wanted to do.
+
+With that in mind we bought the domain www.interpolate.co and came up with a plan to a run our own agency, but most importantly, run it how we wanted.
+
+I handed my notice in, spoke with my bosses (who were very accepting of the fact I was going to start my own agency) and Ben C did the same. Or, so I thought...
+
+Ben was looking to marry his long-time girlfriend at the time of our "master plan" and decided that making the move to self-employment wasn't the best thing for him to do at that time. So instead, he took a promotion, a pay-rise and we both went our separate ways.
+
+So there I was, 2 weeks of my notice period left and my business partner had left before we even got going.
